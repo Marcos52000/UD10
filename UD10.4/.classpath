@@ -2,5 +2,10 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="act1"/>
+	<classpathentry kind="src" path="act2"/>
+	<classpathentry kind="src" path="act4"/>
+	<classpathentry kind="src" path="act3"/>
+	<classpathentry kind="src" path="act5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
